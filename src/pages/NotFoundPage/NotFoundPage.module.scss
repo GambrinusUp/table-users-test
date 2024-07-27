@@ -1,0 +1,18 @@
+.main_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.link {
+  padding-top: 10px;
+  text-align: center;
+  cursor: pointer;
+  text-decoration: underline;
+  color: #000000;
+  &:hover {
+    color: #000000;
+  }
+}

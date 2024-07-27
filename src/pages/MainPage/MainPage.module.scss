@@ -1,0 +1,8 @@
+.main_container {
+  width: calc(100% - 40px);
+  padding: 20px;
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+  align-items: center;
+}
